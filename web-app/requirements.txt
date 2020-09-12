@@ -14,11 +14,7 @@ lazy-object-proxy==1.4.3
 MarkupSafe==1.1.1
 mccabe==0.6.1
 numpy==1.19.1
-<<<<<<< HEAD
 opencv-python==3.4.2.17
-=======
-opencv-python==3.4.1.15
->>>>>>> 7a21dda773afe433c8697e560f6c69fe9b9297a0
 pycodestyle==2.6.0
 pydantic==1.6.1
 pylint==2.6.0
