@@ -98,7 +98,7 @@ input.onchange = (e) => {
 (function imageDragBehav() {
   input.ondragenter = (e) => {
     e.preventDefault();
-    imageContainer.style.border = "3px dashed blue";
+    imageContainer.style.border = "3px dashed grey";
   };
 
   input.ondragleave = (e) => {
