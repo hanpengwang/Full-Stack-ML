@@ -1,6 +1,6 @@
 # Full-Stack-ML
 A Full-Stack-ML Experimental Project
-## Demo https://guess-your-age.wanghanpeng.tech/
+## Demo http://face.wanghanpeng.ca
 
 
 ## [model training workbook](https://github.com/whpskg/Full-Stack-ML/blob/master/model-training/model-training.ipynb)
